@@ -1,0 +1,70 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CompoundFileReader",
+        "repositoryURL": "https://github.com/hughbe/CompoundFileReader",
+        "state": {
+          "branch": null,
+          "revision": "68d65eb68a0df6bb90261dbb0f6191f1609755f3",
+          "version": "1.0.10"
+        }
+      },
+      {
+        "package": "DataStream",
+        "repositoryURL": "https://github.com/hughbe/DataStream",
+        "state": {
+          "branch": null,
+          "revision": "e584f8516ac4ad38e6a062501c470fb44f2c9efd",
+          "version": "2.0.1"
+        }
+      },
+      {
+        "package": "MetafileReader",
+        "repositoryURL": "https://github.com/hughbe/MetafileReader",
+        "state": {
+          "branch": null,
+          "revision": "2fc1d9bde90b211b0830d5b616c69ef8ecea0121",
+          "version": "1.0.1"
+        }
+      },
+      {
+        "package": "OleAutomationDataTypes",
+        "repositoryURL": "https://github.com/hughbe/OleAutomationDataTypes",
+        "state": {
+          "branch": null,
+          "revision": "0fa5feac6b60c20c24b2426ef49dfe4b3689fbed",
+          "version": "1.0.2"
+        }
+      },
+      {
+        "package": "OleDataTypes",
+        "repositoryURL": "https://github.com/hughbe/OleDataTypes",
+        "state": {
+          "branch": null,
+          "revision": "a1c1c319177ecfdf1ccfe4a53b14a42e521e1e61",
+          "version": "1.0.1"
+        }
+      },
+      {
+        "package": "BitField",
+        "repositoryURL": "https://github.com/hughbe/SwiftBitField",
+        "state": {
+          "branch": null,
+          "revision": "993f2e4ec4d4edfc598abd3e87cc813e937cffc1",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "WindowsDataTypes",
+        "repositoryURL": "https://github.com/hughbe/WindowsDataTypes",
+        "state": {
+          "branch": null,
+          "revision": "2d0efa7a0fbdb3eae9ff99456cb864382b883f4d",
+          "version": "1.0.10"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

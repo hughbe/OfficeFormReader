@@ -39,9 +39,7 @@ public struct MultiPageControl {
         /// MUST be ignored. The remaining elements specify one PageProperties for each Page in the control. The order of the Pages is specified
         /// by the value of the ExtraDataBlock.Items of the TabStripControl specified in the previous paragraph.
         var storage = storage
-        
-        print(storage)
-        
+
         guard let formStorage = storage.children["f"] else {
             throw OfficeFormFileError.corrupted
         }

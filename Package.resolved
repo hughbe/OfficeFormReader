@@ -15,17 +15,8 @@
         "repositoryURL": "https://github.com/hughbe/DataStream",
         "state": {
           "branch": null,
-          "revision": "e584f8516ac4ad38e6a062501c470fb44f2c9efd",
-          "version": "2.0.1"
-        }
-      },
-      {
-        "package": "MetafileReader",
-        "repositoryURL": "https://github.com/hughbe/MetafileReader",
-        "state": {
-          "branch": null,
-          "revision": "2fc1d9bde90b211b0830d5b616c69ef8ecea0121",
-          "version": "1.0.1"
+          "revision": "858175a666cd9d9d45b2d9a364dba61a41940120",
+          "version": "2.0.3"
         }
       },
       {
@@ -42,8 +33,8 @@
         "repositoryURL": "https://github.com/hughbe/OleDataTypes",
         "state": {
           "branch": null,
-          "revision": "a1c1c319177ecfdf1ccfe4a53b14a42e521e1e61",
-          "version": "1.0.1"
+          "revision": "2cc4adb25e694b27b04f755194e53603ba36d265",
+          "version": "1.0.2"
         }
       },
       {
@@ -62,6 +53,15 @@
           "branch": null,
           "revision": "2d0efa7a0fbdb3eae9ff99456cb864382b883f4d",
           "version": "1.0.10"
+        }
+      },
+      {
+        "package": "WmfReader",
+        "repositoryURL": "https://github.com/hughbe/WmfReader",
+        "state": {
+          "branch": null,
+          "revision": "fd5d5e67c231b6c9ff2d5b178f745c3e5a0bcdb7",
+          "version": "1.0.3"
         }
       }
     ]

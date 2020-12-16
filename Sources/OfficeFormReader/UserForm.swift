@@ -45,9 +45,7 @@ public struct UserForm {
         guard let objectStorage = storage.children["o"] else {
             throw OfficeFormFileError.corrupted
         }
-        
-        print(storage)
-        
+
         var objectDataStream = objectStorage.dataStream
         self.objectData = try ObjectData(dataStream: &objectDataStream,
                                          storage: storage,
